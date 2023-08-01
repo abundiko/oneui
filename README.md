@@ -1,39 +1,35 @@
-<!--
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
+# OneUI - Unofficial Samsung OneUI Design for Flutter
+### This package is inspired by Samsung's OneUI design and is not an official product of Samsung. Samsung and OneUI are trademarks of Samsung Electronics Co., Ltd.
 
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/guides/libraries/writing-package-pages).
+The development of this package is made possible by the contributions of the open-source community.
 
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-library-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/developing-packages).
--->
+![OneUI Banner](oneui_banner.png)
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+OneUI is a Flutter package that aims to bring the elegant and modern design of Samsung's OneUI to your Flutter applications. With this package, you can easily integrate various OneUI-styled widgets into your app, including Contained Button, Icon Button, Date Picker, App Bar, and many more.
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+- **Contained Button**: A button with a solid background color, curved corners, and subtle elevation.
+- **Icon Button**: A button with an icon, following the OneUI design guidelines.
+- **Date Picker**: A OneUI-styled date picker for selecting dates easily.
+- **App Bar**: A custom app bar that adheres to OneUI's design principles.
+- **Other Widgets**: Additional widgets that conform to OneUI's aesthetics.
 
-## Getting started
+## Installation
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+Add the following line to your `pubspec.yaml` file:
 
-## Usage
+```yaml
+dependencies:
+  oneui: ^1.0.0
+```
+Then, run flutter pub get to install the package.
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
-
+# Usage
+Import the package in your Dart files:
 ```dart
-const like = 'sample';
+import 'package:oneui/oneui.dart';
 ```
 
-## Additional information
-
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+# Acknowledgements
+### Thank you for using OneUI! We hope this package brings a touch of OneUI's elegance to your Flutter projects. If you have any questions or need support, feel free to reach out on GitHub.
