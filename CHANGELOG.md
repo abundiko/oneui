@@ -1,3 +1,8 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+
+All notable changes to the "OneUI" Flutter package will be documented in this file.
+
+## [Unreleased]
+
+### Still under development
