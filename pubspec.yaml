@@ -1,7 +1,7 @@
 name: oneui
-description: A new Flutter package project.
+description: A Flutter package that aims to bring the elegant and modern design of Samsung's OneUI to your Flutter applications.
 version: 0.0.1
-homepage:
+homepage: https://github.com/abundiko/oneui
 
 environment:
   sdk: '>=2.18.2 <3.0.0'

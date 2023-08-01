@@ -3,11 +3,11 @@
 
 The development of this package is made possible by the contributions of the open-source community.
 
-![OneUI Banner](oneui_banner.png)
+![OneUI Banner](assets/banner.png)
 
 OneUI is a Flutter package that aims to bring the elegant and modern design of Samsung's OneUI to your Flutter applications. With this package, you can easily integrate various OneUI-styled widgets into your app, including Contained Button, Icon Button, Date Picker, App Bar, and many more.
 
-## Features
+## Features (!upcoming)
 
 - **Contained Button**: A button with a solid background color, curved corners, and subtle elevation.
 - **Icon Button**: A button with an icon, following the OneUI design guidelines.
@@ -21,7 +21,7 @@ Add the following line to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  oneui: ^1.0.0
+  oneui: ^0.0.1
 ```
 Then, run flutter pub get to install the package.
 
