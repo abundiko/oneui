@@ -1,0 +1,29 @@
+name: oneui_plus
+version: 0.0.1
+description: An Unofficial Flutter UI package that implements Samsung's One UI design for enhanced UI components.
+
+# Add the author(s) of the package
+author: Abundance Ken-Dickson (abundiko)
+
+# Add the homepage URL for your package
+# homepage: https://example.com
+
+# Add the repository URL for your package
+repository: https://github.com/abundiko/oneui
+
+# Add the license for your package
+license: MIT
+
+# Add any dependencies your package requires
+dependencies:
+  flutter:
+    sdk: flutter
+  # Add other dependencies here
+
+# Add any dev dependencies your package requires (optional)
+dev_dependencies:
+  # Add dev dependencies here
+
+# Add any Flutter-specific configurations (optional)
+flutter:
+  # Add Flutter-specific configurations here
